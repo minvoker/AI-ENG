@@ -1,0 +1,48 @@
+numeric_columns
+FFTE Production solids SP
+FFTE Steam pressure SP
+TFE Out flow SP
+TFE Production solids SP
+TFE Vacuum pressure SP
+TFE Steam pressure SP
+FFTE Feed flow SP
+FFTE Out steam temp SP
+Extract tank Level
+Extract tank Out flow PV
+FFTE Discharge density
+FFTE Discharge solids
+FFTE Feed flow rate PV
+FFTE Feed tank level PV
+FFTE Heat temperature 1
+FFTE Heat temperature 2
+FFTE Heat temperature 3
+FFTE Out steam temp PV
+FFTE Production solids PV
+FFTE Steam pressure PV
+FFTE Temperature 1 - 1
+FFTE Temperature 1 - 2
+FFTE Temperature 2 - 1
+FFTE Temperature 2 - 2
+FFTE Temperature 3 - 1
+FFTE Temperature 3 - 2
+FFTE Unk Temperature
+TFE Feed pump
+TFE Input flow PV
+TFE Level
+TFE Motor current
+TFE Out flow PV
+TFE Production solids PV
+TFE Production solids density
+TFE Steam pressure PV
+TFE Steam temperature
+TFE Tank level
+TFE Temperature
+TFE Vacuum pressure PV
+Delta FFTE Feed tank level
+Delta FFTE Production solids
+Delta FFTE Steam pressure
+Delta TFE Out flow
+Delta TFE Production solids
+Delta TFE Vacuum pressure
+Delta TFE Steam pressure
+Delta FFTE Out steam temp
