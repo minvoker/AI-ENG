@@ -1,0 +1,9 @@
+Base,SP_Column,PV_Column
+FFTE Feed tank level,FFTE Feed tank level SP,FFTE Feed tank level PV
+FFTE Production solids,FFTE Production solids SP,FFTE Production solids PV
+FFTE Steam pressure,FFTE Steam pressure SP,FFTE Steam pressure PV
+TFE Out flow,TFE Out flow SP,TFE Out flow PV
+TFE Production solids,TFE Production solids SP,TFE Production solids PV
+TFE Vacuum pressure,TFE Vacuum pressure SP,TFE Vacuum pressure PV
+TFE Steam pressure,TFE Steam pressure SP,TFE Steam pressure PV
+FFTE Out steam temp,FFTE Out steam temp SP,FFTE Out steam temp PV
